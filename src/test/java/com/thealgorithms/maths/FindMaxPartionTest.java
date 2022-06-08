@@ -2,7 +2,6 @@ package com.thealgorithms.maths;
 
 import org.junit.jupiter.api.Test;
 
-import static com.thealgorithms.maths.FindMax.findMax;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class FindMaxPartionTest {
